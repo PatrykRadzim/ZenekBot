@@ -1,5 +1,5 @@
-> **⚠️ Project Status**
-This application is still in a development phase. Not all features are implemented yet. Do not use this bot on public Discord servers. Installation guide will be added soon.
+> **⚠️ Project Status** \
+> This application is still in a development phase. Not all features are implemented yet. Do not use this bot on public Discord servers. Installation guide will be added soon.
 
 # ZenekBot
 

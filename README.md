@@ -1,15 +1,15 @@
->                               ⚠️ Project Status
+> ⚠️ **Project Status**
 >
 > - This application is still in a development phase.
->
 > - Not all features are implemented.
-> - I reccomend not to use this bot on public Discord servers yet.
+> - I recommend not to use this bot on public Discord servers yet.
 > - More detailed guide will be added soon. \
 >   &nbsp;
 
 # ZenekBot
 
-A simple Discord music bot built with discord.js and discord-player. Its main feature is to let server members upload their own music and create custom playlists.
+A simple Discord music bot built with [discord.js](https://github.com/discordjs/discord.js) and [discord-player](https://github.com/Androz2091/discord-player). Its main feature is to let server members upload their own music and create custom playlists.
+
 [![](https://i.postimg.cc/3rZwXfSY/Zrzut-ekranu-z-2025-07-16-16-35-32.png)](https://postimg.cc/G9HrrKn5)
 
 # Installation
